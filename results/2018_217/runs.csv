@@ -1,0 +1,3 @@
+,year,carb_cost,tax_type,taxed_countries,taxing_countries,taxed_sectors,fair_tax,pol_pay_tax,tax_scheme,tau_factor,sigma_path,eta_path,path,path_tax_scheme,num,num_type,num_country,emissions,utility
+0,2018,,specific,,,,False,False,consumer,1,cp_estimate_allyears.csv,cp_estimate_allyears.csv,2018_217/1_results.csv,results/2018_217/1_results_tax_scheme.csv,82961753.95007612,wage,WLD,42248.9937532941,0.9986401157619356
+1,2018,,specific_fair,,,,True,False,consumer,1,cp_estimate_allyears.csv,cp_estimate_allyears.csv,2018_217/2_results.csv,results/2018_217/2_results_tax_scheme.csv,82961753.95007612,wage,WLD,42245.08959958596,0.9986418420943409

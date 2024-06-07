@@ -1,0 +1,7 @@
+numpy
+pandas
+seaborn
+adjustText
+matplotlib
+tqdm
+scienceplots
