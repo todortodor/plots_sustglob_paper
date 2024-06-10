@@ -1,4 +1,0 @@
-,year,carb_cost,tax_type,taxed_countries,taxing_countries,taxed_sectors,fair_tax,pol_pay_tax,tax_scheme,tau_factor,sigma_path,eta_path,path,path_tax_scheme,num,num_type,num_country,emissions,utility
-0,2018,0.0001,uniform,,,,False,False,consumer,1,fgo_estimate.csv,fgo_estimate.csv,2018_711/1_results.csv,,82961753.95007612,wage,WLD,33050.54147517584,0.9929686714410682
-1,2018,0.0001,uniform_pol_pay,,,,False,True,consumer,1,fgo_estimate.csv,fgo_estimate.csv,2018_711/2_results.csv,,82961753.95007612,wage,WLD,33042.81240041762,0.9929504852909574
-2,2018,0.00010000000000000002,uniform_fair,,,,True,False,consumer,1,fgo_estimate.csv,fgo_estimate.csv,2018_711/3_results.csv,,82961753.95007612,wage,WLD,33033.18890342897,0.992950271678293
